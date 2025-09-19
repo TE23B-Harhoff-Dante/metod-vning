@@ -12,3 +12,4 @@ C:\Users\dante.harhoff\Documents\Programmering2\metodövning\Metoder\obj\Debug\n
 C:\Users\dante.harhoff\Documents\Programmering2\metodövning\Metoder\obj\Debug\net8.0\Metoder.pdb
 C:\Users\dante.harhoff\Documents\Programmering2\metodövning\Metoder\obj\Debug\net8.0\Metoder.genruntimeconfig.cache
 C:\Users\dante.harhoff\Documents\Programmering2\metodövning\Metoder\obj\Debug\net8.0\ref\Metoder.dll
+C:\Users\dante.harhoff\Documents\Programmering2\metodövning\Metoder\obj\Debug\net8.0\Metoder.sourcelink.json
